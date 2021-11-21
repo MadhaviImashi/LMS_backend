@@ -4,7 +4,7 @@
 
 1. Clone the project
     ```
-    git clone https://github.com/MadhaviImashi/LMS_frontend.git
+    git clone https://github.com/MadhaviImashi/LMS_backend_server.git
     ```
 2. Open the project using a prefered IDE
 3. Install the dependencies
