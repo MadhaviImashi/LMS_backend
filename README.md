@@ -16,3 +16,4 @@
     npm start
     ```
 
+###### (This server.js file contains GET,POST,PUT,DELETE request methods for both Books and Members of the system)
